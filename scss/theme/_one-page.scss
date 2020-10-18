@@ -194,9 +194,11 @@
             }
 
             .divider-light-dark {
-                width: $baseline * 2;
-                margin-left: $padding-none;
-                margin-bottom: 20px;
+                width: $baseline + 72;
+                height: $baseline + 72;
+                margin: auto;
+               
+                opacity: 50%;
             }
         }
     }

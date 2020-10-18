@@ -11136,7 +11136,7 @@ header.header-image .header-content .header-content-inner h5 {
 
 #main-slider .carousel-caption .btn-primary {
   margin-top: 48px;
-  font-size: 14px;
+  font-size: 22px;
   padding: 10px 12px;
 }
 
@@ -11168,8 +11168,8 @@ header.header-image .header-content .header-content-inner h5 {
     margin-bottom: 24px;
   }
   #main-slider .carousel-caption .btn-primary {
-    margin-top: 48px;
-    font-size: 14px;
+    margin-top: 24px;
+    font-size: 22px;
     padding: 10px 12px;
   }
   #main-slider .icon-prev, #main-slider .icon-next {
@@ -11202,7 +11202,7 @@ header.header-image .header-content .header-content-inner h5 {
   }
   #main-slider .carousel-caption .btn-primary {
     margin-top: 24px;
-    font-size: 14px;
+    font-size: 22px;
     padding: 10px 12px;
   }
   #main-slider .icon-prev, #main-slider .icon-next {
@@ -11235,7 +11235,7 @@ header.header-image .header-content .header-content-inner h5 {
   }
   #main-slider .carousel-caption .btn-primary {
     margin-top: 12px;
-    font-size: 14px;
+    font-size: 19px;
     padding: 5px 6px;
   }
   #main-slider .icon-prev, #main-slider .icon-next {
@@ -11269,7 +11269,7 @@ header.header-image .header-content .header-content-inner h5 {
   }
   #main-slider .carousel-caption .btn-primary {
     margin-top: 16px;
-    font-size: 8px;
+    font-size: 19px;
     padding: 5px;
   }
   #main-slider .icon-prev, #main-slider .icon-next {
@@ -11868,9 +11868,10 @@ form fieldset input[name="comment"], form fieldset input[name="message"] {
 }
 
 .t108-one-page #counters-services .counters-box .divider-light-dark {
-  width: 48px;
-  margin-left: 0;
-  margin-bottom: 20px;
+  width: 96px;
+  height: 96px;
+  margin: auto;
+  opacity: 50%;
 }
 
 @media (max-width: 768px) {
